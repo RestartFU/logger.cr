@@ -1,0 +1,7 @@
+name: logger
+version: 0.0.1
+
+crystal: ">= 1.0.0"
+
+authors:
+  - Pragu3
