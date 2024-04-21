@@ -49,7 +49,9 @@ module Logger
   def fatal(s)
     print "#{Color::RESET}#{FATAL}#{s}"
     exit(1)
+  end
   def fatalln(s)
     puts "#{Color::RESET}#{FATAL}#{s}"
     exit(1)
+  end
 end
